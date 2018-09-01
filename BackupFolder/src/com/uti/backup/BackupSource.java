@@ -15,7 +15,7 @@ public class BackupSource {
 	public static void main(String[] args){
 
 		String srcPackagePath="E:\\Source Path\\";
-		String destPackagePath="E:\\Destination Path\\";
+		String destPackagePath="F:\\Destination Path\\";
 		
 		Map<String,String> srcDestPackageMap=new LinkedHashMap<String,String>();
 		srcDestPackageMap.put("Source Folder", "Destination Folder");
